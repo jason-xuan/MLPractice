@@ -88,3 +88,11 @@ ENV/
 # Rope project settings
 .ropeproject
 *.csv
+/AlgorithmImplementation/.vs/AlgorithmImplementation/v14
+*.txt
+/AlgorithmImplementation/Regression/Properties
+*.exe
+/AlgorithmImplementation/Regression/bin/Debug
+/AlgorithmImplementation/Regression/obj/Debug
+/kaggle/logs
+/plot.ipynb
